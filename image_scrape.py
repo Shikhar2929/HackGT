@@ -12,18 +12,21 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 
 # VARIABLE DEFINITIONS
-decoder = json.JSONDecoder()
 encoder = json.JSONEncoder()
 BASE = 'https://www.bing.com'
 URL = 'https://www.bing.com/images/search?q={}'
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15'}
 start = time.time()
+summary = {}
 
 
 # MAIN FUNCTION
 def image_query(classes):
-    #setup(classes)
+    dir = os.path.join('./', "Data");
+    os.mkdir(dir);
     for query in classes:
+        classDir= os.path.join('./Data/', query)
+        os.mkdir(classDir)
         req = request.Request(url=URL.format(query.replace('_', '+')), headers=headers)
         try:
             resp = request.urlopen(req)
@@ -146,7 +149,4 @@ with open('../data/bing_io.json', 'w') as file:
     file.close()
 
 
-
-# Text Search Link: https://www.bing.com/search?q=cat&FORM=HDRSC1
-# Image Search Link: https://www.bing.com/images/search?q=cat&form=HDRSC2&first=1&tsc=ImageHoverTitle
-'''
+image_query(["Smith"])
