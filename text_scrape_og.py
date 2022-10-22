@@ -5,12 +5,9 @@ from urllib import request
 from bs4 import BeautifulSoup
 
 
-# VARIABLE DEFINITIONS
-decoder = json.JSONDecoder()
-encoder = json.JSONEncoder()
 BASE = 'https://www.bing.com'
 URL = 'https://www.bing.com/search?q={}+media+entertainment+industry'
-headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15'}
+headers = {'User-Agent': ''}
 start = time.time()
 
 
