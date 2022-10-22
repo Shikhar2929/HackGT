@@ -5,7 +5,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
     </list>
-    <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="" />
+    <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="">
+      <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/image_scrape.py">
+      <ranges>
+        <range start1="20" end1="22" start2="20" end2="22" changelist="d50d9b12-c730-46f8-b7b5-414125e584ef" />
+        <range start1="40" end1="41" start2="40" end2="41" changelist="d50d9b12-c730-46f8-b7b5-414125e584ef" />
+        <range start1="62" end1="142" start2="62" end2="62" changelist="8de80166-adc5-40c3-87b7-47ee780f41cb" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
