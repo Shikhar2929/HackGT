@@ -2068,9 +2068,9 @@ Our editors will review what you’ve submitted and determine whether to revise 
             
 
 
+San Diego Zoo - Animals & Plants - Lion
 A-Z Animals - Lion
 Animal Diversity Web - Lion
-San Diego Zoo - Animals & Plants - Lion
 
 
 Britannica Websites
@@ -2217,9 +2217,9 @@ Our editors will review what you’ve submitted and determine whether to revise 
                 
 
 
+San Diego Zoo - Animals & Plants - Lion
 A-Z Animals - Lion
 Animal Diversity Web - Lion
-San Diego Zoo - Animals & Plants - Lion
 
 
 Britannica Websites
@@ -2283,9 +2283,9 @@ See all media
 
 Related Topics:
 
-Barbary lion
-American lion
 cave lion
+American lion
+Barbary lion
 Asiatic lion
 leopon
 
@@ -2322,8 +2322,8 @@ There are a number of competing evolutionary explanations for why lions form gro
 
 
 Britannica Quiz
-Animals: Fact or Fiction?
-Curiosity may have killed the cat, but kinkajous, bluebacks, and mustelids are alive and well in these questions! They’re just some of the amazing animals featured in this fact or fiction quiz.
+The Big Cats
+Although photographs and videos of cute domesticated cats are frequent subjects of Internet searches and social media posts, how much do you really know about the larger members of the cat family?
 
 
 
@@ -4596,7 +4596,7 @@ Ambush predator,
 Apex predator, 
 Nomadic, 
 Territorial, 
-Viviparous   
+Viviparous 
 
 
 
@@ -4914,28 +4914,28 @@ Included in Lists
 
 
 
-Mammals of Tanzania
+Threatened Species of India
 
 
 
 
 
 
-Threatened Species of DR Congo
+Mammals of Zambia
 
 
 
 
 
 
-Threatened Species of South Sudan
+Mammals of Benin
 
 
 
 
 
 
-Threatened Species of Somalia
+Threatened Species of Mozambique
 
 
 
@@ -4955,6 +4955,22 @@ Related Animals
 
 
 
+Jaguar
+Panthera onca
+
+
+
+
+
+
+Leopard
+Panthera pardus
+
+
+
+
+
+
 Bengal tiger
 Panthera tigris tigris
 
@@ -4963,8 +4979,12 @@ Panthera tigris tigris
 
 
 
-Amur leopard
-Panthera pardus orientalis
+Sumatran tiger
+Panthera tigris sondaica
+
+
+
+
 
 
 
@@ -4973,18 +4993,6 @@ Panthera pardus orientalis
 
 Indian leopard
 Panthera pardus fusca
-
-
-
-
-
-
-African leopard
-Panthera pardus pardus
-
-
-
-
 
 
 
@@ -5015,36 +5023,10 @@ Panthera leo sinhaleyus
 
 
 
-Panthera youngi
-Panthera youngi
-
-
-
-
-
-
 
 
 
 More Fascinating Animals to Learn About
-
-
-
-
-Scarlet Macaw
-Ara macao
-
-
-
-
-Bald Eagle
-Haliaeetus leucocephalus
-
-
-
-
-Ring-Tailed Lemur
-Lemur catta
 
 
 
@@ -5055,8 +5037,26 @@ Canis lupus
 
 
 
+Giant Panda
+Ailuropoda melanoleuca
+
+
+
+
 Giraffe
 Giraffa camelopardalis
+
+
+
+
+Virginia Opossum
+Didelphis virginiana
+
+
+
+
+Nile Crocodile
+Crocodylus niloticus
 
 
 
@@ -5073,8 +5073,8 @@ Loxodonta africana
 
 
 
-Arctic Fox
-Vulpes lagopus
+Bald Eagle
+Haliaeetus leucocephalus
 
 
 
@@ -5208,13 +5208,14 @@ Videos10Trailer 2:34Watch LionTrailer 1:38Watch LionTrailer 2:23Watch LionTraile
 
 
 
-Top castEditDev PatelSaroo BrierleyNicole KidmanSue BrierleyRooney MaraLucySunny PawarYoung SarooAbhishek BharateGudduPriyanka BoseKamlaKhushi SolankiYoung ShekilaShankar NisodeShankarTannishtha ChatterjeeNoorNawazuddin SiddiquiRamaRiddhi SenCafé ManKaushik SenPolice Official(as Koushik Sen)Rita RoyAmita(as Rita Boy)Udayshankar PalLiluah Teacher(as Uday Shankar Paul)Surojit DasShonedeep…Deepti NavalMrs. SoodMenik GooneratneSwarminaDavid WenhamJohn BrierleyDirectorGarth DavisWritersSaroo Brierley(adapted from the book "A Long Way Home" by)Luke Davies(screenplay by)All cast & crewProduction, box office & more at IMDbProMore like this8.0Slumdog Millionaire7.9Life of Pi7.2The Man Who Knew Infinity7.6Hotel Mumbai7.8Hidden Figures8.0The Pursuit of Happyness7.7The Boy in the Striped Pajamas7.7The Theory of Everything8.0The Imitation Game8.0The King's Speech7.8The Curious Case of Benjamin Button7.6127 Hours
+Top castEditDev PatelSaroo BrierleyNicole KidmanSue BrierleyRooney MaraLucySunny PawarYoung SarooAbhishek BharateGudduPriyanka BoseKamlaKhushi SolankiYoung ShekilaShankar NisodeShankarTannishtha ChatterjeeNoorNawazuddin SiddiquiRamaRiddhi SenCafé ManKaushik SenPolice Official(as Koushik Sen)Rita RoyAmita(as Rita Boy)Udayshankar PalLiluah Teacher(as Uday Shankar Paul)Surojit DasShonedeep…Deepti NavalMrs. SoodMenik GooneratneSwarminaDavid WenhamJohn BrierleyDirectorGarth DavisWritersSaroo Brierley(adapted from the book "A Long Way Home" by)Luke Davies(screenplay by)All cast & crewProduction, box office & more at IMDbProMore like this8.0Slumdog Millionaire7.9Life of Pi7.2The Man Who Knew Infinity7.6Hotel Mumbai7.8Hidden Figures8.0The Pursuit of Happyness7.7The Boy in the Striped Pajamas7.7The Theory of Everything8.0The Imitation Game8.0The King's Speech7.8The Curious Case of Benjamin Button5.8The Wedding Guest
 
 
 
 
 
-StorylineEditDid you knowEditTriviaTo internalize her character, Priyanka Bose went to Madhya Pradesh to meet Kamla Munshi, the mother her character was based on: "My questions were basic and just by meeting her, I could tell how hard her life has been. I got down on my knees and hugged her and thanked her for her courage." When meeting Munshi she was told that she was declared crazy by many villagers in the small town for years, as she never gave up hope that her son would return one day.GoofsSaroo is seen using a Samsung smart phone to calculate one of the distances. When the scene was set, Samsung hadn't released any smart phones.QuotesSaroo Brierley: I'm sorry you couldn't have your own kids.Sue Brierley: What are you saying?Saroo Brierley: We... we... weren't blank pages, were we? Like your own would have been. You weren't just adopting us but our past as well. I feel like we're killing you.Sue Brierley: I could have had kids.Saroo Brierley: What?Sue Brierley: We chose not to have kids. We wanted the two of you. That's what we wanted. We wanted the two of you in our lives.That's what we chose.[pause] Sue Brierley: That's one of the reasons I fell in love with your dad.[pause] Sue Brierley: Because we both felt as if... the world has enough people in it. Have a child, couldn't guarantee it will make anything better. But to take a child that's suffering like you boys were. Give you a chance in the world. That's something.Crazy creditsThere is no opening title card, only opening credits; the title card doesn't appear until the end.Alternate versionsThe Extended Australian Edition runs approx. 12 minutes longer.ConnectionsFeatured in The Tonight Show Starring Jimmy Fallon: Nicole Kidman/Michael Shannon/Miranda Lambert (2016)SoundtracksAaja Nindiya Aaja Nainan Beech Sama JaWritten by Khayyam(Saregama India/Mushroom Music)Performed by Lata MangeshkarLicensed courtesy of Saregama IndiaUser reviews619ReviewReviewFeatured review9/10 Not just another Oscar bait movieDo you know the feeling you get when you go into a film with no expectations at all or thinking it might be decent, and the film turns out to not only be good, but blows you away by how amazing it ends up being? That's LION, and if you've been watching films for several years like me thinking you've seen everything committed to cinema, it's a fantastic feeling to be proved wrong.Let me explain to you exactly what I experienced while watching LION: Almost half of the film is in Hindi, which lends incredible authenticity to the story, not that BS where they have actors in which English is their second language speak English for the sake of sparing the American audience from reading subtitles (I'm looking at you, MEMOIRS OF A GEISHA, and every other Hollywood movie ever made). In fact, the entire first act takes place in India, where about 40 minutes of the film rides on the shoulders of a first time child actor – played by the wonderful Sunny Pawar – and it's one of the best first acts I've seen in years. Think of it like the silent first act of Wall-E; it feels like it can be its own film, yet the filmmakers do a great job connecting the story once Dev Patel comes on screen.On top of that, the filmmaking is impressive. The script is fantastic, the cinematography is lush, the soundtrack complements the film really nicely, and the pacing is on point where it rarely feels like it's dragging, despite the story taking place over the course of 25 years. Every actor in here is also terrific in their roles. As stated earlier, Sunny Pawar makes a compelling lead for the first third of the film. If Oscars were given to kid actors, he would have a damn good chance at winning one. For the last two thirds, Dev Patel more than carries the rest of the film, giving an emotionally naked performance worthy enough to top his role in SLUMDOG MILLIONAIRE. Finally, Rooney Mara, Nicole Kidman, and David Wenham are ace, despite all of them having limited screen time.In a time where diversity is being talked about more in the film industry, LION makes a compelling case for having diversity in storytelling. It's not about a guy meeting his girlfriend's parents for the first time. It's not about a group of friends going in a cabin in the woods. It's not even about a guy/girl struggling with the death of his/her father/mother/son/daughter/dog. No, LION is a personal story unique to South Asians growing up in India, and it's refreshing and easily one of the best films the year has to offer. Don't dismiss this as yet another Oscar bait movie put out by the Weinstein Company – it probably is one. But the film is much more than that. With a distinct vision from director Garth Davis, LION offers an enthralling story that deserves to be seen by everyone.helpful•46754moviewizguyOct 19, 2016FAQ3Seeing as Saroo knew the knew the name of his home village, why couldn't he have found this via an atlas or online search?DetailsEditRelease dateJanuary 6, 2017 (United States)Countries of originAustraliaUnited KingdomUnited StatesIndiaOfficial sitesOfficial SiteOfficial Site (Japan)LanguagesEnglishHindiBengaliAlso known asA Long Way HomeFilming locationsGanesh Talai, Khandwa, Madhya Pradesh, IndiaProduction companiesThe Weinstein CompanyScreen AustraliaSee-Saw FilmsSee more company credits at IMDbProBox officeEditBudget$12,000,000 (estimated)Gross US & Canada$51,738,905Opening weekend US & Canada$123,360Nov 27, 2016Gross worldwide$140,853,810See detailed box office info on IMDbProTechnical specsEditRuntime1 hour 58 minutesColorColorSound mixDolby DigitalAspect ratio2.39 : 1Related newsContribute to this pageSuggest an edit or add missing contentTop GapWhat is the streaming release date of Lion (2016) in Canada?AnswerSee more gapsLearn more about contributingEdit page
+StorylineEditDid you knowEditTriviaTo internalize her character, Priyanka Bose went to Madhya Pradesh to meet Kamla Munshi, the mother her character was based on: "My questions were basic and just by meeting her, I could tell how hard her life has been. I got down on my knees and hugged her and thanked her for her courage." When meeting Munshi she was told that she was declared crazy by many villagers in the small town for years, as she never gave up hope that her son would return one day.GoofsSaroo is seen using a Samsung smart phone to calculate one of the distances. When the scene was set, Samsung hadn't released any smart phones.QuotesSaroo Brierley: I'm sorry you couldn't have your own kids.Sue Brierley: What are you saying?Saroo Brierley: We... we... weren't blank pages, were we? Like your own would have been. You weren't just adopting us but our past as well. I feel like we're killing you.Sue Brierley: I could have had kids.Saroo Brierley: What?Sue Brierley: We chose not to have kids. We wanted the two of you. That's what we wanted. We wanted the two of you in our lives.That's what we chose.[pause] Sue Brierley: That's one of the reasons I fell in love with your dad.[pause] Sue Brierley: Because we both felt as if... the world has enough people in it. Have a child, couldn't guarantee it will make anything better. But to take a child that's suffering like you boys were. Give you a chance in the world. That's something.Crazy creditsThere is no opening title card, only opening credits; the title card doesn't appear until the end.Alternate versionsThe Extended Australian Edition runs approx. 12 minutes longer.ConnectionsFeatured in The Tonight Show Starring Jimmy Fallon: Nicole Kidman/Michael Shannon/Miranda Lambert (2016)SoundtracksAaja Nindiya Aaja Nainan Beech Sama JaWritten by Khayyam(Saregama India/Mushroom Music)Performed by Lata MangeshkarLicensed courtesy of Saregama IndiaUser reviews619ReviewReviewFeatured review10/10 The story of my life..It's the story of my life. I was born in Bangalore in 1983 and I was adopted by an Italian family when I was almost two years old. My father told me that the nuns found me on the street, and they took me to an orphanage in Solur. My father made a very difficult journey to come and get me and we stayed a month in India before returning to Italy. unfortunately I do not remember anything of that world and for me it will be very difficult to understand where I was born but one day I will come back. I have to go back
+This film change my life..helpful•49920maenlocaFeb 10, 2019FAQ3Seeing as Saroo knew the knew the name of his home village, why couldn't he have found this via an atlas or online search?DetailsEditRelease dateJanuary 6, 2017 (United States)Countries of originAustraliaUnited KingdomUnited StatesIndiaOfficial sitesOfficial SiteOfficial Site (Japan)LanguagesEnglishHindiBengaliAlso known asA Long Way HomeFilming locationsGanesh Talai, Khandwa, Madhya Pradesh, IndiaProduction companiesThe Weinstein CompanyScreen AustraliaSee-Saw FilmsSee more company credits at IMDbProBox officeEditBudget$12,000,000 (estimated)Gross US & Canada$51,738,905Opening weekend US & Canada$123,360Nov 27, 2016Gross worldwide$140,853,810See detailed box office info on IMDbProTechnical specsEditRuntime1 hour 58 minutesColorColorSound mixDolby DigitalAspect ratio2.39 : 1Related newsContribute to this pageSuggest an edit or add missing contentTop GapWhat is the streaming release date of Lion (2016) in Canada?AnswerSee more gapsLearn more about contributingEdit page
 
 
 
@@ -5227,6 +5228,91 @@ More to explore
 
 
 Recently viewedYou have no recently viewed pagesGet the IMDb AppSign in for more accessSign in for more accessGet the IMDb AppHelpSite IndexIMDbProBox Office MojoIMDb DeveloperPress RoomAdvertisingJobsConditions of UsePrivacy PolicyInterest-Based AdsIMDb, an Amazon company© 1990-2022 by IMDb.com, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amazon.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enter the characters you see below
+Sorry, we just need to make sure you're not a robot. For best results, please make sure your browser is accepting cookies.
+
+
+
+
+
+
+
+
+
+
+Type the characters you see in this image:
+
+
+
+
+
+
+
+
+Try different image
+
+
+
+
+
+
+
+
+
+
+
+Continue shopping
+
+
+
+
+
+
+
+
+
+
+
+Conditions of Use
+
+
+
+
+Privacy Policy
+
+
+          © 1996-2014, Amazon.com, Inc. or its affiliates
+          
+
+
 
 
 
@@ -5747,2420 +5833,3 @@ Cookie statement
 
 
 Lion VS Tiger - Tiger VS Lion - Aspin - YouTubeAboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new features© 2022 Google LLC
-
-
-
-MyLion Login
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Admission
-
-arrow 
-
-
-Discover Lovett
-
-
-
-
-Application Process
-
-
-
-
-Visit Lovett
-
-
-
-
-Tuition Plans and Financial Aid
-
-arrow 
-
-
-Financial Aid FAQs
-
-
-
-
-Tuition Payment Plans
-
-arrow 
-
-
-ACH Payments
-
-
-
-
-Monthly Credit Card Payments
-
-
-
-
-
-
-
-
-Connect with a Current Parent
-
-
-
-
-
-
-About
-
-arrow 
-
-
-Explore Lovett
-
-
-
-
-Return to the Riverbank (COVID-19 Info)
-
-
-
-
-Diversity, Equity, & Inclusion
-
-arrow 
-
-
-Commitments
-
-
-
-
-Initiatives
-
-
-
-
-
-
-History
-
-
-
-
-Administration
-
-
-
-
-Trustees
-
-
-
-
-Careers at Lovett
-
-arrow 
-
-
-Current Openings
-
-
-
-
-
-
-Communications
-
-arrow 
-
-
-Social Media
-
-
-
-
-
-
-Our Campus
-
-
-
-
-Living Lovett Podcast
-
-
-
-
-
-
-Academics
-
-arrow 
-
-
-Our Vision for Learning
-
-
-
-
-Lower School
-
-arrow 
-
-
-Curriculum
-
-
-
-
-Beyond the Classroom
-
-
-
-
-
-
-Middle School
-
-arrow 
-
-
-Curriculum
-
-
-
-
-Beyond the Classroom
-
-
-
-
-
-
-Upper School
-
-arrow 
-
-
-Curriculum
-
-arrow 
-
-
-Diploma Distinctions
-
-
-
-
-Global Online Academy
-
-
-
-
-Graduation Requirements & Academic Policies
-
-
-
-
-
-
-Beyond the Classroom
-
-arrow 
-
-
-The OnLion
-
-
-
-
-
-
-College Counseling
-
-arrow 
-
-
-College Acceptances
-
-
-
-
-College Representatives
-
-
-
-
-KLW College Day
-
-
-
-
-
-
-
-
-Signature Programs
-
-arrow 
-
-
-Civic and Global Engagement
-
-arrow 
-
-
-Community Service
-
-
-
-
-Experiential Education
-
-
-
-
-Exchanges & Homestays
-
-
-
-
-Internships
-
-
-
-
-Semester School Programs
-
-
-
-
-Scholarships
-
-
-
-
-Senior Projects
-
-
-
-
-Curricular
-
-
-
-
-
-
-Summer Programs
-
-
-
-
-Technology
-
-
-
-
-Academic Resource Center
-
-
-
-
-Siempre Verde
-
-
-
-
-School Counseling
-
-
-
-
-
-
-Library
-
-
-
-
-
-
-Arts
-
-arrow 
-
-
-Fine Arts at Lovett
-
-arrow 
-
-
-Music
-
-arrow 
-
-
-Lovett Conservatory of Music
-
-
-
-
-
-
-Visual Arts
-
-
-
-
-Performing Arts
-
-
-
-
-
-
-Fine Arts Calendar
-
-
-
-
-Facilities
-
-
-
-
-Live Stream
-
-
-
-
-High School Film Fest
-
-
-
-
-Fine Arts News
-
-
-
-
-Friends Of The Arts
-
-
-
-
-Art Show & Sale
-
-
-
-
-
-
-Athletics
-
-arrow 
-
-
-Athletics at Lovett
-
-
-
-
-Athletics Calendar
-
-
-
-
-Team Pages
-
-
-
-
-Athletics Inquiry Form
-
-
-
-
-Facilities
-
-
-
-
-Lovett Strength & Conditioning
-
-
-
-
-Lovett Network
-
-
-
-
-Athletic News
-
-
-
-
-Lions History
-
-
-
-
-LionBackers
-
-
-
-
-Lions Recruiting
-
-
-
-
-
-
-Campus Life
-
-arrow 
-
-
-Lovett Community
-
-
-
-
-After School Programs
-
-arrow 
-
-
-After School Enrichment
-
-
-
-
-After School Activities Program
-
-
-
-
-Day Camps
-
-
-
-
-Lovett Conservatory of Music
-
-
-
-
-
-
-Parent Involvement
-
-arrow 
-
-
-Lovett Parent Association
-
-
-
-
-Lovett International Alliance
-
-arrow 
-
-
-WorldFest
-
-arrow 
-
-
-Talent Showcase
-
-
-
-
-Workshops
-
-
-
-
-Taste of Lovett
-
-
-
-
-
-
-
-
-Friends Of The Arts
-
-arrow 
-
-
-Art Show and Sale
-
-
-
-
-FOTA Experiences
-
-
-
-
-
-
-LionBackers
-
-
-
-
-Parent Support Groups
-
-
-
-
-Lions for Life
-
-
-
-
-
-
-Sustainability
-
-
-
-
-Campus Store
-
-
-
-
-Faith Identity
-
-
-
-
-Campus Safety and Security
-
-
-
-
-Bus Program
-
-
-
-
-
-
-Support
-
-arrow 
-
-
-Supporting Lovett
-
-
-
-
-Alumni Giving Day
-
-
-
-
-Give Online
-
-arrow 
-
-
-Support True Blue
-
-
-
-
-Support Diversity, Equity and Inclusion
-
-
-
-
-Support the Endowment
-
-
-
-
-Make a Tribute Gift
-
-
-
-
-Make a Pledge Payment
-
-
-
-
-Support Lovett Libraries
-
-
-
-
-Support Siempre Verde
-
-
-
-
-Support Breakthrough Atlanta
-
-
-
-
-Support Giving Day
-
-
-
-
-
-
-True Blue Annual Fund
-
-
-
-
-Endowment
-
-
-
-
-Planned Giving
-
-
-
-
-Private School Tax Credit
-
-
-
-
-
-
-
-Alumni
-
-arrow 
-
-
-Welcome Back
-
-
-
-
-Alumni Leadership
-
-
-
-
-Reunions
-
-
-
-
-Events
-
-
-
-
-Alumni News
-
-
-
-
-
-
-
-Quicklinks
-
-arrow 
-
-
-Email Login
-
-
-
-
-News
-
-
-
-
-Directory
-
-
-
-
-Student Billing
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-
-
-
-
-				Alumni
-			
-
-
-
-
-				Welcome Back
-			
-
-
-
-				Alumni Leadership
-			
-
-
-
-				Reunions
-			
-
-
-
-				Events
-			
-
-
-
-				Alumni News
-			
-
-
-
-
-
-
-
-
-
-
-
-
-				Quicklinks
-			
-
-
-
-
-				Email Login
-			
-
-
-
-				News
-			
-
-
-
-				Directory
-			
-
-
-
-				Student Billing
-			
-
-
-
-
-
-
-
-
-
-
-
-Calendar
-
-
-MyLion
-
-
-
-
-
-
-
-
-
-
-
-
-
-				Admission
-			
-
-
-
-
-				Discover Lovett
-			
-
-
-
-				Application Process
-			
-
-
-
-				Visit Lovett
-			
-
-
-
-				Tuition Plans and Financial Aid
-					
-
-
-
-
-
-				Financial Aid FAQs
-			
-
-
-
-				Tuition Payment Plans
-			
-
-
-
-
-
-
-
-				Connect with a Current Parent
-			
-
-
-
-
-
-
-
-				About
-			
-
-
-
-
-				Explore Lovett
-			
-
-
-
-				Return to the Riverbank (COVID-19 Info)
-			
-
-
-
-				Diversity, Equity, & Inclusion
-					
-
-
-
-
-
-				Commitments
-			
-
-
-
-				Initiatives
-			
-
-
-
-
-
-
-
-				History
-			
-
-
-
-				Administration
-			
-
-
-
-				Trustees
-			
-
-
-
-				Careers at Lovett
-					
-
-
-
-
-
-				Current Openings
-			
-
-
-
-
-
-
-
-				Communications
-					
-
-
-
-
-
-				Social Media
-			
-
-
-
-
-
-
-
-				Our Campus
-			
-
-
-
-				Living Lovett Podcast
-			
-
-
-
-
-
-
-
-				Academics
-			
-
-
-
-
-				Our Vision for Learning
-			
-
-
-
-				Lower School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-
-
-
-
-				Middle School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-
-
-
-
-				Upper School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-				College Counseling
-			
-
-
-
-
-
-
-
-				Signature Programs
-					
-
-
-
-
-
-				Civic and Global Engagement
-			
-
-
-
-				Summer Programs
-			
-
-
-
-				Technology
-			
-
-
-
-				Academic Resource Center
-			
-
-
-
-				Siempre Verde
-			
-
-
-
-				School Counseling
-			
-
-
-
-
-
-
-
-				Library
-			
-
-
-
-
-
-
-
-				Arts
-			
-
-
-
-
-				Fine Arts at Lovett
-					
-
-
-
-
-
-				Music
-			
-
-
-
-				Visual Arts
-			
-
-
-
-				Performing Arts
-			
-
-
-
-
-
-
-
-				Fine Arts Calendar
-			
-
-
-
-				Facilities
-			
-
-
-
-				Live Stream
-			
-
-
-
-				High School Film Fest
-			
-
-
-
-				Fine Arts News
-			
-
-
-
-				Friends Of The Arts
-			
-
-
-
-				Art Show & Sale
-			
-
-
-
-
-
-
-
-				Athletics
-			
-
-
-
-
-				Athletics at Lovett
-			
-
-
-
-				Athletics Calendar
-			
-
-
-
-				Team Pages
-			
-
-
-
-				Athletics Inquiry Form
-			
-
-
-
-				Facilities
-			
-
-
-
-				Lovett Strength & Conditioning
-			
-
-
-
-				Lovett Network
-			
-
-
-
-				Athletic News
-			
-
-
-
-				Lions History
-			
-
-
-
-				LionBackers
-			
-
-
-
-				Lions Recruiting
-			
-
-
-
-
-
-
-
-				Campus Life
-			
-
-
-
-
-				Lovett Community
-			
-
-
-
-				After School Programs
-					
-
-
-
-
-
-				After School Enrichment
-			
-
-
-
-				After School Activities Program
-			
-
-
-
-				Day Camps
-			
-
-
-
-				Lovett Conservatory of Music
-			
-
-
-
-
-
-
-
-				Parent Involvement
-					
-
-
-
-
-
-				Lovett Parent Association
-			
-
-
-
-				Lovett International Alliance
-			
-
-
-
-				Friends Of The Arts
-			
-
-
-
-				LionBackers
-			
-
-
-
-				Parent Support Groups
-			
-
-
-
-				Lions for Life
-			
-
-
-
-
-
-
-
-				Sustainability
-			
-
-
-
-				Campus Store
-			
-
-
-
-				Faith Identity
-			
-
-
-
-				Campus Safety and Security
-			
-
-
-
-				Bus Program
-			
-
-
-
-
-
-
-
-				Support
-			
-
-
-
-
-				Supporting Lovett
-			
-
-
-
-				Alumni Giving Day
-			
-
-
-
-				Give Online
-					
-
-
-
-
-
-				Support True Blue
-			
-
-
-
-				Support Diversity, Equity and Inclusion
-			
-
-
-
-				Support the Endowment
-			
-
-
-
-				Make a Tribute Gift
-			
-
-
-
-				Make a Pledge Payment
-			
-
-
-
-				Support Lovett Libraries
-			
-
-
-
-				Support Siempre Verde
-			
-
-
-
-				Support Breakthrough Atlanta
-			
-
-
-
-				Support Giving Day
-			
-
-
-
-
-
-
-
-				True Blue Annual Fund
-			
-
-
-
-				Endowment
-			
-
-
-
-				Planned Giving
-			
-
-
-
-				Private School Tax Credit
-			
-
-
-
-
-
-
-
-
-
-
-
-
-Search
-
-
-
-
-
-
-
-				Alumni
-			
-
-
-
-
-				Welcome Back
-			
-
-
-
-				Alumni Leadership
-			
-
-
-
-				Reunions
-			
-
-
-
-				Events
-			
-
-
-
-				Alumni News
-			
-
-
-
-
-
-
-
-
-
-
-
-
-				Quicklinks
-			
-
-
-
-
-				Email Login
-			
-
-
-
-				News
-			
-
-
-
-				Directory
-			
-
-
-
-				Student Billing
-			
-
-
-
-
-
-
-
-
-
-
-
-Calendar
-
-
-MyLion
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				Admission
-			
-
-
-
-
-				Discover Lovett
-			
-
-
-
-				Application Process
-			
-
-
-
-				Visit Lovett
-			
-
-
-
-				Tuition Plans and Financial Aid
-					
-
-
-
-
-
-				Financial Aid FAQs
-			
-
-
-
-				Tuition Payment Plans
-			
-
-
-
-
-
-
-
-				Connect with a Current Parent
-			
-
-
-
-
-
-
-
-				About
-			
-
-
-
-
-				Explore Lovett
-			
-
-
-
-				Return to the Riverbank (COVID-19 Info)
-			
-
-
-
-				Diversity, Equity, & Inclusion
-					
-
-
-
-
-
-				Commitments
-			
-
-
-
-				Initiatives
-			
-
-
-
-
-
-
-
-				History
-			
-
-
-
-				Administration
-			
-
-
-
-				Trustees
-			
-
-
-
-				Careers at Lovett
-					
-
-
-
-
-
-				Current Openings
-			
-
-
-
-
-
-
-
-				Communications
-					
-
-
-
-
-
-				Social Media
-			
-
-
-
-
-
-
-
-				Our Campus
-			
-
-
-
-				Living Lovett Podcast
-			
-
-
-
-
-
-
-
-				Academics
-			
-
-
-
-
-				Our Vision for Learning
-			
-
-
-
-				Lower School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-
-
-
-
-				Middle School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-
-
-
-
-				Upper School
-					
-
-
-
-
-
-				Curriculum
-			
-
-
-
-				Beyond the Classroom
-			
-
-
-
-				College Counseling
-			
-
-
-
-
-
-
-
-				Signature Programs
-					
-
-
-
-
-
-				Civic and Global Engagement
-			
-
-
-
-				Summer Programs
-			
-
-
-
-				Technology
-			
-
-
-
-				Academic Resource Center
-			
-
-
-
-				Siempre Verde
-			
-
-
-
-				School Counseling
-			
-
-
-
-
-
-
-
-				Library
-			
-
-
-
-
-
-
-
-				Arts
-			
-
-
-
-
-				Fine Arts at Lovett
-					
-
-
-
-
-
-				Music
-			
-
-
-
-				Visual Arts
-			
-
-
-
-				Performing Arts
-			
-
-
-
-
-
-
-
-				Fine Arts Calendar
-			
-
-
-
-				Facilities
-			
-
-
-
-				Live Stream
-			
-
-
-
-				High School Film Fest
-			
-
-
-
-				Fine Arts News
-			
-
-
-
-				Friends Of The Arts
-			
-
-
-
-				Art Show & Sale
-			
-
-
-
-
-
-
-
-				Athletics
-			
-
-
-
-
-				Athletics at Lovett
-			
-
-
-
-				Athletics Calendar
-			
-
-
-
-				Team Pages
-			
-
-
-
-				Athletics Inquiry Form
-			
-
-
-
-				Facilities
-			
-
-
-
-				Lovett Strength & Conditioning
-			
-
-
-
-				Lovett Network
-			
-
-
-
-				Athletic News
-			
-
-
-
-				Lions History
-			
-
-
-
-				LionBackers
-			
-
-
-
-				Lions Recruiting
-			
-
-
-
-
-
-
-
-				Campus Life
-			
-
-
-
-
-				Lovett Community
-			
-
-
-
-				After School Programs
-					
-
-
-
-
-
-				After School Enrichment
-			
-
-
-
-				After School Activities Program
-			
-
-
-
-				Day Camps
-			
-
-
-
-				Lovett Conservatory of Music
-			
-
-
-
-
-
-
-
-				Parent Involvement
-					
-
-
-
-
-
-				Lovett Parent Association
-			
-
-
-
-				Lovett International Alliance
-			
-
-
-
-				Friends Of The Arts
-			
-
-
-
-				LionBackers
-			
-
-
-
-				Parent Support Groups
-			
-
-
-
-				Lions for Life
-			
-
-
-
-
-
-
-
-				Sustainability
-			
-
-
-
-				Campus Store
-			
-
-
-
-				Faith Identity
-			
-
-
-
-				Campus Safety and Security
-			
-
-
-
-				Bus Program
-			
-
-
-
-
-
-
-
-				Support
-			
-
-
-
-
-				Supporting Lovett
-			
-
-
-
-				Alumni Giving Day
-			
-
-
-
-				Give Online
-					
-
-
-
-
-
-				Support True Blue
-			
-
-
-
-				Support Diversity, Equity and Inclusion
-			
-
-
-
-				Support the Endowment
-			
-
-
-
-				Make a Tribute Gift
-			
-
-
-
-				Make a Pledge Payment
-			
-
-
-
-				Support Lovett Libraries
-			
-
-
-
-				Support Siempre Verde
-			
-
-
-
-				Support Breakthrough Atlanta
-			
-
-
-
-				Support Giving Day
-			
-
-
-
-
-
-
-
-				True Blue Annual Fund
-			
-
-
-
-				Endowment
-			
-
-
-
-				Planned Giving
-			
-
-
-
-				Private School Tax Credit
-			
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-EMPLOYEE MYLION LOGIN
-
-
-
-
-
-
-
-1
-/
-1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-STUDENT MYLION LOGIN
-
-
-
-
-
-
-
-1
-/
-1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PARENT MYLION LOGIN
-
-
-
-
-
-
-
-1
-/
-1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4075 Paces Ferry Road, N.W.Atlanta, GA(404) 262-3032
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-		The Lovett School is an independent, coeducational day school where children from Kindergarten through Grade 12 find the courage to explore and the drive to discover.Copyright © 2020 Lovett School    |    Privacy Policy
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
