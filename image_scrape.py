@@ -4,6 +4,7 @@ from smart_resize import smart_resize
 import time
 import os
 import json
+from json import JSONEncoder
 from urllib import request
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -15,21 +16,23 @@ from PIL import Image
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
+#chrome_options.add_argument("--log-level=3")
 #chrome_options.add_argument("user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15")
 
 # VARIABLE DEFINITIONS
-encoder = json.JSONEncoder()
 BASE = 'https://www.bing.com'
 URL = 'https://www.bing.com/images/search?q={}'
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15'}
 start = time.time()
-summary = {}
 
 
-# MAIN FUNCTION
-def image_query(classes, numExamples, size, performGrayscale):
+def mine_image(classes, numExamples=100, size=None, performGrayscale=False):
     setup(classes)
+    summary = {}
+    encoder = JSONEncoder()
     for query in classes:
+        summary[query] = []
+        toDel = []
         req = request.Request(url=URL.format(query.replace('_', '+')), headers=headers)
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
         try:
@@ -72,8 +75,8 @@ def image_query(classes, numExamples, size, performGrayscale):
             counter = 0;
             images_stored = 0;
             # goes through class samples
-            while (counter < numExamples):
-                image_link = images_data[counter]
+            while (images_stored < numExamples):
+                image_link = images_data[counter+7]
                 href = image_link['href']
                 image_req = request.Request(url=BASE + href, headers=headers)
                 image_resp = request.urlopen(image_req)
@@ -105,15 +108,18 @@ def image_query(classes, numExamples, size, performGrayscale):
                         ext = murl[murl.rfind(".")+1:]
                         if (ext.find("?") != -1):
                             ext = ext[:ext.find("?")]
-                        if (ext not in ["jpg", "jpeg", "png"]):
+                        if (ext not in ["jpg", "jpeg", "png", "gif"]):
                             if (murl.find("jpg") != -1):
                                 ext = "jpg"
                             elif (murl.find("jpeg") != -1):
                                 ext = "jpeg"
                             elif (murl.find("png") != -1):
                                 ext = "png"
+                            elif (murl.find("gif") != -1):
+                                ext = "gif"
                             else:
                                 counter += 1
+                                print("\n\n\n\n Failed")
                                 continue
                         image_req = request.Request(murl, headers=headers)
                         # writes image to file
@@ -122,22 +128,40 @@ def image_query(classes, numExamples, size, performGrayscale):
                         except:
                             pass
                         else:
-                            path = './data/{}/{}.{}'.format(query, "img" + str(images_stored), ext)
+                            path = './data/{}/{}.{}'.format(query, "img" + str(counter), ext)
                             try:
                                 open(path, 'x')
                             except:
+                                print("\n\n\n\n Failed")
                                 pass
                             else:
                                 with open(path, 'wb') as file:
                                     file.write(image_resp.read())
                                     image_resp.close()
-                                    im = Image.open(path)
-                                    im = smart_resize(im, size)
-                                    if (performGrayscale):
-                                        im = im.convert('L')
-                                    im.save(path)
-                                    images_stored += 1
+                                    error = False
+                                    try:
+                                        im = Image.open(path)
+                                        if (size != None):
+                                            im = smart_resize(im, size)
+                                        if (performGrayscale):
+                                            im = im.convert('L')
+                                        im.save(path)
+                                    except:
+                                        toDel.append(path)
+                                    else:
+                                        images_stored += 1
+                                        summary[query].append({'path': path, 'link': murl})                                          
                 counter += 1
-            
 
-image_query(["Lebron_James"], 5, (720, 720), True)
+        for rm in toDel:
+            os.remove(rm)
+    # JSON SUMMARY
+    try:
+        open('data/image_summary.json', 'x')
+    except:
+        pass
+    with open('data/image_summary.json', 'w') as file:
+        file.write(encoder.encode(summary))
+
+
+mine_image(classes=["Tesla_Model_3"], numExamples=100, size=(480, 480), performGrayscale=True)
