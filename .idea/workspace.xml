@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="" />
+    <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/classes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlphaMine/static/coco.names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlphaMine/static/yolov3.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlphaMine/static/yolov3.weights" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boundary_boxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/boundary_boxes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +45,22 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/rohanphadnis/GeorgiaTech/HackGT/AlphaMine/src/alpha_mine&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;TEXT&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Python.image_scrape">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AlphaMine/src/alpha_mine" />
+      <recent name="$PROJECT_DIR$/AlphaMine/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mine_data">
     <configuration name="Default" type="PythonConfigurationType" factoryName="Python">
       <module name="HackGT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +82,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="abstractions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackGT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlphaMine/src/alpha_mine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="image_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackGT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +116,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_scrape.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mine_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackGT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AlphaMine/src/alpha_mine" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,11 +168,15 @@
     </configuration>
     <list>
       <item itemvalue="Python.Default" />
+      <item itemvalue="Python.abstractions" />
+      <item itemvalue="Python.mine_data" />
       <item itemvalue="Python.image_scrape" />
       <item itemvalue="Python.text_scrape" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mine_data" />
+        <item itemvalue="Python.abstractions" />
         <item itemvalue="Python.image_scrape" />
         <item itemvalue="Python.text_scrape" />
       </list>

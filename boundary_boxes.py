@@ -1,9 +1,7 @@
-from asyncio.windows_events import NULL
 import cv2 as cv
 import numpy as np
 from json import JSONEncoder
 import os
-WHITE = (255, 255, 255)
 img = None
 img0 = None
 outputs = None
