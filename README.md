@@ -23,8 +23,9 @@
   <li><strong> Parameters </strong> <ul> 
   <li>Number of Classes</li>
   <li>Number of Samples (Images Traversed)</li>
-  <li>Number of Grayscale</li> 
-  <li>Boundary boxes - stored in meta_images.json </li>
+  <li>Size - A Tuple. Optional parameter, default will not resize the images</li> 
+  <li>Number of Grayscale. Optional parameter, defaulted to no Grayscale</li> 
+  <li>Boundary boxes, generated from yolo model on 80 common classes. Box locations are stored in meta_images.json</li>
   </ul></li>
   
 </ul>
