@@ -1,5 +1,5 @@
 # IMPORTING DEPENDENCIES
-from abstractions import setup
+from abstraction_generic import setup
 import time
 import json
 from urllib import request
