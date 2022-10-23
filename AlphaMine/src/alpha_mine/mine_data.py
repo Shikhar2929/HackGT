@@ -9,7 +9,7 @@ def collect_data():
     dtype = input('Enter data type (text/image): ')
     if dtype == 'text':
         num_pages = int(input('Enter number of pages per class: '))
-        mine_text(classes, num_pages)
+        mine(classes, dtype, num_samples=num_pages)
     elif dtype == 'image':
         num_images = int(input('Enter number of images per class: '))
         width = int(input('Enter image width (in pixels): '))

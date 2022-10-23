@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "alpha_mine"
+version = "1.0"
+authors = [
+    { name="Shikhar Ahuja", email="sahuja63@gatech.edu" },
+    { name="Rohan Phadnis", email="rphadnis6@gatech.edu" },
+    { name="Alexander Wang", email="awang602@gatech.edu" },
+    { name="Jon Wang", email="jwang3337@gatech.edu" }
+]
+description = "A data mining framework for compiling machine-learning datasets."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
