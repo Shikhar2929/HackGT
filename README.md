@@ -1,4 +1,4 @@
-<img src="AlphaMine Logo.png">
+<img src="AlphaMine Logo.png" style="width:500px;height:600px;">
 <hr>
 
 <h3>Problem Statement</h3>
