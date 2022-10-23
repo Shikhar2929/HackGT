@@ -1,7 +1,6 @@
 # IMPORTING DEPENDENCIES
 import os
 import time
-import wget
 import cv2 as cv
 import numpy as np
 from pprint import pprint
@@ -15,8 +14,6 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
-
-file = wget.download('https://pjreddie.com/media/files/yolov3.weights')
 
 # VARIABLE DEFINITIONS
 BASE = 'https://www.bing.com'
@@ -33,7 +30,7 @@ outputs = None
 classes = open('../../static/coco.names').read().strip().split('\n')
 np.random.seed(42)
 colors = np.random.randint(0, 255, size=(len(classes), 3), dtype='uint8')
-net = cv.dnn.readNetFromDarknet('../../static/yolov3.cfg', file)
+net = cv.dnn.readNetFromDarknet('../../static/yolov3.cfg', '../../static/yolov3.weights')
 net.setPreferableBackend(cv.dnn.DNN_BACKEND_OPENCV)
 ln = net.getLayerNames()
 ln = [ln[i - 1] for i in net.getUnconnectedOutLayers()]
