@@ -13,15 +13,15 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
 
 
 <hr>
-
-<h3>Text Mining</h3>
 <br>
+<h3>Text Mining</h3>
 <p>Text Mining can be extremely useful for Natural Language Processing applications. With easy dataset generation, sophisticated models like GPT-3 will become more accessible to a wider audience.</p>
 <ul>
   <li> <strong> Parameters </strong> <ul> 
   <li>Number of Classes</li>
   <li>Number of Samples (Webpages Traversed)</li>
   </ul></li>
+<hr>
   
 </ul>
 <h3>Image Mining</h3>
