@@ -9,6 +9,7 @@
 <hr>
 
 <h3>Text Mining</h3>
+<br>
 <p>Text Mining can be extremely useful for Natural Language Processing applications. With easy dataset generation, sophisticated models like GPT-3 will become more accessible to a wider audience.</p>
 <ul>
   <li> <strong> Parameters </strong> <ul> 
