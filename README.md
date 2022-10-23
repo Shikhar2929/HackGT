@@ -9,17 +9,25 @@
 <hr>
 
 <h3>Text Mining</h3>
+<ul>
+  <li>Parameters <ul> 
+  <li>Number of Classes</li>
+  <li>Number of Samples (Webpages Traversed)</li>
+  </ul></li>
+  
+</ul>
 <p>For mining text datasets, we use a set number of classes, each consisting of a .txt file with text from an amount of webpages.</p>
 <h3>Image Mining</h3>
 <p> Computer Vision datasets are supported by AlphaMine. 
 <ul>
   <li>Parameters <ul> 
-  <li>Tea</li>
-  <li>Milk</li> 
+  <li>Number of Classes</li>
+  <li>Number of Samples (Images Traversed)</li>
+  <li>Number of Grayscale</li> 
+  <li>Boundary boxes - stored in meta_images.json </li>
   </ul></li>
   
 </ul>
-In order to mine our image datasets, we take in parameters number of classes, number of samples, size, grayscale, and boundary boxes. These bounding boxes are stored in the meta_images.json
 <h3>Installation Instructions</h3>
 <h3>Command-Line Usage</h3>
 <h3>Library Usage</h3>
