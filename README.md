@@ -37,6 +37,10 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
 </ul>
 <hr>
 <h3>Installation Instructions</h3>
+Clone the repository using 
+<code> 
+git clone 
+</code>
 <hr>
 <h3>Command-Line Usage</h3>
 Simply follow the installation instructions and then run the following script
