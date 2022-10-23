@@ -9,18 +9,18 @@
 <hr>
 
 <h3>Text Mining</h3>
+<p>Text Mining can be extremely useful for Natural Language Processing applications. With easy dataset generation, sophisticated models like GPT-3 will become more accessible to a wider audience.</p>
 <ul>
-  <li>Parameters <ul> 
+  <li> <strong> Parameters </strong> <ul> 
   <li>Number of Classes</li>
   <li>Number of Samples (Webpages Traversed)</li>
   </ul></li>
   
 </ul>
-<p>For mining text datasets, we use a set number of classes, each consisting of a .txt file with text from an amount of webpages.</p>
 <h3>Image Mining</h3>
 <p> Computer Vision datasets are supported by AlphaMine. 
 <ul>
-  <li>Parameters <ul> 
+  <li><strong> Parameters </strong> <ul> 
   <li>Number of Classes</li>
   <li>Number of Samples (Images Traversed)</li>
   <li>Number of Grayscale</li> 
