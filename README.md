@@ -1,4 +1,6 @@
 <h1>AlphaMine</h1>
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+
 
 <hr>
 
