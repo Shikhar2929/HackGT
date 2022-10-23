@@ -44,4 +44,5 @@ Simply follow the installation instructions and then run the following script
 <code>
 python3 mine_data.py
 </code>
+<hr>
 <h3>Library Usage</h3>
