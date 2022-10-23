@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quote.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HackGT.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackGT.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imagescrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/imagescrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_scrape_og.py" beforeDir="false" afterPath="$PROJECT_DIR$/text_scrape_og.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
     </list>
-    <list id="242f2bc4-428f-43c0-a464-b890059f72bb" name="Changes by family" comment="" />
-    <list id="89461d40-f4cc-4e61-9525-959479d4e5cf" name="Changes by rohanphadnis" comment="" />
+    <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="">
+      <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/image_scrape.py">
+      <ranges>
+        <range start1="20" end1="22" start2="20" end2="22" changelist="d50d9b12-c730-46f8-b7b5-414125e584ef" />
+        <range start1="40" end1="41" start2="40" end2="41" changelist="d50d9b12-c730-46f8-b7b5-414125e584ef" />
+        <range start1="62" end1="142" start2="62" end2="62" changelist="8de80166-adc5-40c3-87b7-47ee780f41cb" />
+      </ranges>
+    </file>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,15 +44,13 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/alexwang/HackGT",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.text_scrape">
     <configuration name="Default" type="PythonConfigurationType" factoryName="Python">
       <module name="HackGT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,9 +58,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
@@ -67,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="text_scrape_og" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="text_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackGT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,10 +84,10 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_scrape_og.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text_scrape.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
@@ -90,11 +95,11 @@
     </configuration>
     <list>
       <item itemvalue="Python.Default" />
-      <item itemvalue="Python.text_scrape_og" />
+      <item itemvalue="Python.text_scrape" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.text_scrape_og" />
+        <item itemvalue="Python.text_scrape" />
       </list>
     </recent_temporary>
   </component>
