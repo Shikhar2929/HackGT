@@ -35,7 +35,9 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
   </ul></li>
   
 </ul>
+<hr>
 <h3>Installation Instructions</h3>
+<hr>
 <h3>Command-Line Usage</h3>
 Simply follow the installation instructions and then run the following script
 <br>
