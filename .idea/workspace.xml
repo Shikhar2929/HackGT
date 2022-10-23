@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" afterDir="false" />
-    </list>
+    <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="" />
     <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
