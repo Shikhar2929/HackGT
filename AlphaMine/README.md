@@ -43,13 +43,13 @@ git clone https://github.com/Shikhar2929/HackGT
 </code>
 <hr>
 <h3>Command-Line Usage</h3>
+Create a classes.txt file listing all the different classes that you want, separated by the newline character. 
 Simply move into the code directory and then run the following script
 <br>
 <code>
-cd HackGT/AlphaMine/src/alpha_mine
+cd HackGT/AlphaMine/src/alpha_mine <br> 
 python3 mine_data.py
 </code> 
-Create a classes.txt file listing all the different classes that you want, separated by the newline character. 
 <ol> <li> When prompted to enter classes, simply enter the path of the classes.txt
   </li>
   <li> When prompted to enter the type of data, enter "text" or "image"
