@@ -40,7 +40,9 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
 </ul>
 <h3>Installation Instructions</h3>
 <h3>Command-Line Usage</h3>
-<code> 
+<code>
+<strong>
 python3 mine_data.py
+</strong>
 </code>
 <h3>Library Usage</h3>
