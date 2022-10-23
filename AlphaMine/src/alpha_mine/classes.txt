@@ -1,2 +1,4 @@
-dog
-cat
+tesla_model_3
+bmw_i8
+rimac_nevera
+toyota_camry
