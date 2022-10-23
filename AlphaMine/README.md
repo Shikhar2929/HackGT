@@ -1,3 +1,4 @@
+<strong>To view official library, visit <a href="https://github.com/RohanPhadnis/AlphaMine">AlphaMine</a>.</strong>
 <img src="AlphaMine Logo.png" style="width:885px;height:497px;">
 <hr>
 
