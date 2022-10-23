@@ -1,15 +1,17 @@
 # IMPORTING DEPENDENCIES
 from abstractions import setup
 import time
-import os
 import json
 from urllib import request
-import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
+from PIL import Image
 
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 # VARIABLE DEFINITIONS
 encoder = json.JSONEncoder()
@@ -21,12 +23,9 @@ summary = {}
 
 
 # MAIN FUNCTION
-def image_query(classes):
-    dir = os.path.join('./', "Data");
-    os.mkdir(dir);
+def image_query(classes, size):
+    setup(classes)
     for query in classes:
-        classDir= os.path.join('./Data/', query)
-        os.mkdir(classDir)
         req = request.Request(url=URL.format(query.replace('_', '+')), headers=headers)
         try:
             resp = request.urlopen(req)
@@ -36,7 +35,7 @@ def image_query(classes):
             try:
                 soup = BeautifulSoup(resp.read(), 'html.parser')
             except:
-                break
+                pass
             resp.close()
             for tag in soup(['style', 'script']):
                 tag.decompose()
@@ -46,32 +45,42 @@ def image_query(classes):
                 href = image_link['href']
                 image_req = request.Request(url=BASE + href, headers=headers)
                 image_resp = request.urlopen(image_req)
-                driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+                driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
                 driver.get(BASE + href)
                 time.sleep(1)
                 image_site = driver.page_source
-                soup = BeautifulSoup(image_site, "html.parser")
+                image_soup = BeautifulSoup(image_site, "html.parser")
                 driver.quit()
-                image_soup = BeautifulSoup(image_resp.read(), 'html.parser')
                 for tag in image_soup(['style', 'script']):
                     tag.decompose()
                 image_resp.close()
-                print(image_soup)
-                file_ext = image_soup.find("div", {"id": "detailWindow"})
-                print(file_ext)
-                break
-                '''
+                image = image_soup.find("div", {"id": "mainImageWindow"})
+                image = image['data-m'][1:-1].split(",")
+                murl = image[2]
+                murl = murl[8:-1]
+                ext = murl[murl.rfind(".")+1:]
+                image_req = request.Request(murl, headers=headers)
                 try:
-                    open('data/{}/'.format(query), 'x')
+                    image_resp = request.urlopen(image_req)
                 except:
                     pass
-                with open('data/text_summary.json', 'w') as file:
-                    file.write(encoder.encode(summary))
-                '''
+                else:
+                    path = './data/{}/{}.{}'.format(query, "img" + str(counter), ext)
+                    try:
+                        open(path, 'x')
+                    except:
+                        print("\n\n\n\n Failed")
+                    else:
+                        with open(path, 'wb') as file:
+                            file.write(image_resp.read())
+                            image_resp.close()
+                            im = Image.open(path)
+                            im = im.resize(size)
+                            im.save(path)
+                        counter += 1
             
 
-
-image_query(["Lebron_James"])
+image_query(["Lebron_James"], (720, 720))
         
 
 
@@ -150,3 +159,4 @@ with open('../data/bing_io.json', 'w') as file:
 
 
 image_query(["Smith"])
+'''
