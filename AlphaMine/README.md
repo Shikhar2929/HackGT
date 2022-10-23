@@ -47,7 +47,7 @@ Create a classes.txt file listing all the different classes that you want, separ
 Simply move into the code directory and then run the following script
 <br>
 <code>
-cd HackGT/AlphaMine/src/alpha_mine </code> <code>
+cd HackGT/AlphaMine/src/alpha_mine </code> <br> <code>
 python3 mine_data.py
 </code> 
 <ol> <li> When prompted to enter classes, simply enter the path of the classes.txt
