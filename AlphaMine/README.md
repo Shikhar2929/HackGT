@@ -39,13 +39,23 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
 <h3>Installation Instructions</h3>
 Clone the repository using 
 <code> 
-git clone 
+git clone https://github.com/Shikhar2929/HackGT
 </code>
 <hr>
 <h3>Command-Line Usage</h3>
-Simply follow the installation instructions and then run the following script
+Simply move into the code directory and then run the following script
 <br>
 <code>
+cd HackGT/AlphaMine/src/alpha_mine
 python3 mine_data.py
+</code> 
+Create a classes.txt file listing all the different classes that you want, separated by the newline character. 
+<ol> <li> When prompted to enter classes, simply enter the path of the classes.txt
+  </li>
+  <li> When prompted to enter the type of data, enter "text" or "image"
+  </li>
+  <li> Follow the input instructions for defining additional parameters.  
+  </li>
+</ol>
 </code>
 
