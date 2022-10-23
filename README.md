@@ -2,7 +2,7 @@
 <hr>
 
 <h3>Problem Statement</h3>
-<p> <i>"Data is the new Oil." - Clive Humby </i> Machine Learning has gained traction in recent years. However, training and validating machine learning requires the availability of labeled data at scale. The new demands of data ensure that data collection will always be a consistent struggle.
+<p> <i>"Data is the new Oil." - Clive Humby </i> <br> Machine Learning has gained traction in recent years. However, training and validating machine learning requires the availability of labeled data at scale. The new demands of data ensure that data collection will always be a consistent struggle.
 <br>
 <br> 
 <strong>
