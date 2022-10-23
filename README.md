@@ -1,39 +1,47 @@
 <h1>AlphaMine</h1>
-
-<hr>
-
-<h3>Problem Statement</h3>
-<!--<img src="quote.png">-->
-<p> Machine Learning has gained traction in recent years. However, training and validating machine learning requires the availability of labeled data at scale. The new demands of data ensure that data collection will always be a consistent struggle. </p>
-
-
-<hr>
-
-<h3>Text Mining</h3>
-<p>For mining text datasets, we use a set number of  </p>
-<h3>Image Mining</h3>
-<p> In order to mine our image datasets, we use a set number of classes, with a set amount of images per class. These images can be sized uniformly and gray scaled. We also have a feature that creates bounding boxes on images. These bounding boxes are stored in the meta_images.json/p>
-<h3>Installation Instructions</h3>h3>
-<h3>Command-Line Usage</h3>
-<h3>Library Usage</h3>
-
-
-
-<h1>AlphaMine</h1>
-
 <hr>
 
 <h3>Problem Statement</h3>
 <img src="quote.png">
-<p> Machine Learning has gained traction in recent years. However, training and validating machine learning requires the availability of labeled data at scale. The new demands of data ensure that data collection will always be a consistent struggle. </p>
+<p> Machine Learning has gained traction in recent years. However, training and validating machine learning requires the availability of labeled data at scale. The new demands of data ensure that data collection will always be a consistent struggle.
+<br>
+<br> 
+<strong>
+Enter the AlphaMine. Our framework allows users to simply enter keywords and our alpha software will automatically generate a dataset, cleaned and prepared for training. 
+  </strong>
+  
+</p>
 
 
 <hr>
 
 <h3>Text Mining</h3>
-<p>For mining text datasets, we use a set number of classes, each consisting of a .txt file with text from an amount of webpages.</p>
+<br>
+<p>Text Mining can be extremely useful for Natural Language Processing applications. With easy dataset generation, sophisticated models like GPT-3 will become more accessible to a wider audience.</p>
+<ul>
+  <li> <strong> Parameters </strong> <ul> 
+  <li>Number of Classes</li>
+  <li>Number of Samples (Webpages Traversed)</li>
+  </ul></li>
+  
+</ul>
 <h3>Image Mining</h3>
-<p> In order to mine our image datasets, we use a set number of classes, with a set amount of images per class. These images can be sized uniformly and gray scaled. We also have a feature that creates bounding boxes on images. These bounding boxes are stored in the meta_images.json/p>
-<h3>Installation Instructions</h3>h3>
+<br>
+<p> AlphaMine also supports Computer Vision dataset generation. 
+<ul>
+  <li><strong> Parameters </strong> <ul> 
+  <li>Number of Classes</li>
+  <li>Number of Samples (Images Traversed)</li>
+  <li>Size - A Tuple. Optional parameter, default will not resize the images</li> 
+  <li>Number of Grayscale. Optional parameter, defaulted to no Grayscale</li> 
+  <li>Boundary boxes, generated from yolo model on 80 common classes. Box locations are stored in meta_images.json</li>
+  </ul></li>
+  
+</ul>
+<h3>Installation Instructions</h3>
 <h3>Command-Line Usage</h3>
+Simply follow the installation instructions and then run the following script
+<code>
+python3 mine_data.py
+</code>
 <h3>Library Usage</h3>
