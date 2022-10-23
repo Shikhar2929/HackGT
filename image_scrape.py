@@ -16,7 +16,7 @@ from PIL import Image
 
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-#chrome_options.add_argument("--log-level=3")
+chrome_options.add_argument("--log-level=3")
 #chrome_options.add_argument("user-agent = Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15")
 
 # VARIABLE DEFINITIONS
@@ -76,7 +76,7 @@ def mine_image(classes, numExamples=100, size=None, performGrayscale=False):
             images_stored = 0;
             # goes through class samples
             while (images_stored < numExamples):
-                image_link = images_data[counter+7]
+                image_link = images_data[counter]
                 href = image_link['href']
                 image_req = request.Request(url=BASE + href, headers=headers)
                 image_resp = request.urlopen(image_req)
@@ -134,23 +134,22 @@ def mine_image(classes, numExamples=100, size=None, performGrayscale=False):
                             except:
                                 print("\n\n\n\n Failed")
                                 pass
-                            else:
-                                with open(path, 'wb') as file:
-                                    file.write(image_resp.read())
-                                    image_resp.close()
-                                    error = False
-                                    try:
-                                        im = Image.open(path)
-                                        if (size != None):
-                                            im = smart_resize(im, size)
-                                        if (performGrayscale):
-                                            im = im.convert('L')
-                                        im.save(path)
-                                    except:
-                                        toDel.append(path)
-                                    else:
-                                        images_stored += 1
-                                        summary[query].append({'path': path, 'link': murl})                                          
+                            with open(path, 'wb') as file:
+                                file.write(image_resp.read())
+                                image_resp.close()
+                                error = False
+                                try:
+                                    im = Image.open(path)
+                                    if (size != None):
+                                        im = smart_resize(im, size)
+                                    if (performGrayscale):
+                                        im = im.convert('L')
+                                    im.save(path)
+                                except:
+                                    toDel.append(path)
+                                else:
+                                    images_stored += 1
+                                    summary[query].append({'path': path, 'link': murl})                                          
                 counter += 1
 
         for rm in toDel:
@@ -164,4 +163,4 @@ def mine_image(classes, numExamples=100, size=None, performGrayscale=False):
         file.write(encoder.encode(summary))
 
 
-mine_image(classes=["Tesla_Model_3"], numExamples=100, size=(480, 480), performGrayscale=True)
+mine_image(classes=["dog"], numExamples=100, size=(480, 480), performGrayscale=True)
