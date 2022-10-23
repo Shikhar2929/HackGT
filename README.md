@@ -12,7 +12,7 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
 </p>
 
 
-<hr>
+<hr size="10">
 <h3>Text Mining</h3>
 <p>Text Mining can be extremely useful for Natural Language Processing applications. With easy dataset generation, sophisticated models like GPT-3 will become more accessible to a wider audience.</p>
 <ul>
@@ -22,7 +22,7 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
   </ul></li>
   
 </ul>
-<hr>
+<hr size="10">
 <h3>Image Mining</h3>
 <p> AlphaMine also supports Computer Vision dataset generation. 
 <ul>
