@@ -26,7 +26,6 @@ Enter the AlphaMine. Our framework allows users to simply enter keywords and our
   
 </ul>
 <h3>Image Mining</h3>
-<br>
 <p> AlphaMine also supports Computer Vision dataset generation. 
 <ul>
   <li><strong> Parameters </strong> <ul> 
