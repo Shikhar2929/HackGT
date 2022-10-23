@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8de80166-adc5-40c3-87b7-47ee780f41cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/classes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlphaMine/static/coco.names" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlphaMine/static/yolov3.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlphaMine/static/yolov3.weights" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/abstractions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/mine_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boundary_boxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/boundary_boxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image_scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/image_scrape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/classes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/classes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/cat/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/cat/img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/cat/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/cat/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/dog/img1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/dog/img11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/dog/img2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/dog/img4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/dog/img5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/image_meta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlphaMine/src/alpha_mine/data/image_summary.json" beforeDir="false" />
     </list>
     <list id="d50d9b12-c730-46f8-b7b5-414125e584ef" name="Changes by alexwang" comment="" />
     <option name="SHOW_DIALOG" value="false" />
