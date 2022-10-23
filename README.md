@@ -18,7 +18,7 @@
   
 </ul>
 <h3>Image Mining</h3>
-<p> Computer Vision datasets are supported by AlphaMine. 
+<p> AlphaMine also supports Computer Vision dataset generation. 
 <ul>
   <li><strong> Parameters </strong> <ul> 
   <li>Number of Classes</li>
