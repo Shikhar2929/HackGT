@@ -7,8 +7,11 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
 from PIL import Image
 
+chrome_options = Options()
+chrome_options.add_argument("--headless")
 
 # VARIABLE DEFINITIONS
 encoder = json.JSONEncoder()
@@ -17,7 +20,6 @@ URL = 'https://www.bing.com/images/search?q={}'
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15'}
 start = time.time()
 summary = {}
-driver = webdriver.Chrome()
 
 
 # MAIN FUNCTION
@@ -43,7 +45,7 @@ def image_query(classes, size):
                 href = image_link['href']
                 image_req = request.Request(url=BASE + href, headers=headers)
                 image_resp = request.urlopen(image_req)
-                driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+                driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
                 driver.get(BASE + href)
                 time.sleep(1)
                 image_site = driver.page_source
@@ -67,7 +69,7 @@ def image_query(classes, size):
                     try:
                         open(path, 'x')
                     except:
-                        pass
+                        print("\n\n\n\n Failed")
                     else:
                         with open(path, 'wb') as file:
                             file.write(image_resp.read())
